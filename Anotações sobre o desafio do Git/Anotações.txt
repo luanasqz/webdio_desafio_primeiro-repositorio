@@ -1,0 +1,23 @@
+## Sobre mim
+
+O curso esta sendo ótimo para mim, 
+pois é uma forma de não está sozinha 
+nesse mundo, onde várias querendo mudar 
+de emprego, mudar de vida, e mudanças são sempre
+bem vidas! 
+
+## Anotações do Git
+
+Criando meu primeiro repositório,
+Comitar as modificações na branch as informações,
+Clonar os repositorio para add na maquina. 
+e indo adicionando os gits!
+
+
+
+
+
+
+
+
+
